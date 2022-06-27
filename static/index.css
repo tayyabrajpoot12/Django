@@ -1,0 +1,12 @@
+.tableHeader {
+    background-color: black;
+    color: white;
+}
+
+.text {
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+    background-color: white;
+    color: black;
+}
